@@ -1,4 +1,4 @@
-### Hi 👋 My name is Jordi
+### Hi 👋 I'm Jordi
  
 Computer Engineering Student
  
