@@ -8,13 +8,12 @@ Most of my projects start as university assignments and end up turning into some
 * 🖥️  See my portfolio at [jordimolo.github.io](https://jordimolo.github.io)
 * ✉️  Contact me at [20.jordiml.02@gmail.com](mailto:20.jordiml.02@gmail.com)
 * 💼  Looking for an internship or my first role in software development
-Skills
-------
+## Skills
  
 <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,css,bash,dotnet,nodejs,react,vite,androidstudio,arduino,git,docker,redis,postgres,mysql,linux" />
-Socials
--------
- 
+
+## Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordi-moreno-lópez)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jordimolo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20.jordiml.02@gmail.com)
